@@ -16,10 +16,4 @@ def max_integer(list=[]):
             result = list[i]
         i += 1
     return result
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
 
